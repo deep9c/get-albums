@@ -1,6 +1,6 @@
 # Get Albums
 
-** React.js app to get albums of your favorite artist. **
+**React.js app to get albums of your favorite artist.**
 
 ## Downloading and Setup for Development:
 1. Clone the repository using `git clone --recursive <git URI>`.
