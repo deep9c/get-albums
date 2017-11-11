@@ -1,6 +1,6 @@
-# Get Albums
+# Opusopedia
 
-**React.js app to get albums of your favorite artist.**
+**React app to get info on your favorite music compositions.**
 
 ## Downloading and Setup for Development:
 1. Clone the repository using `git clone --recursive <git URI>`.
